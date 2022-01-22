@@ -39,7 +39,6 @@ p {
 
 .image-section {
   padding-top: 5px;
-  flex: 2;
 }
 
 .image {
@@ -47,10 +46,6 @@ p {
   height: auto;
   border-radius: 12px;
 
-}
-
-.text-section {
-  flex: 1;
 }
 
 .text {
