@@ -13,6 +13,6 @@
 - Mobile-first workflow
 
 ### Screenshots
-
-![desktop-design-screenshot](https://user-images.githubusercontent.com/95619834/150644070-89cdee2a-a560-410d-9a0d-c8c172f54c4a.png)
 ![mobile-design-screenshot](https://user-images.githubusercontent.com/95619834/150644072-2a4c6e43-0b9e-4f9e-9312-b33942f1d64e.png)
+![desktop-design-screenshot](https://user-images.githubusercontent.com/95619834/150644070-89cdee2a-a560-410d-9a0d-c8c172f54c4a.png)
+
