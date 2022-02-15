@@ -3,7 +3,7 @@
 ### Links
 
 - Solution URL: https://github.com/joy21fs/QR-Code-Component
-- Live Site URL: https://joy21fs.github.io/QR-Code-Component/
+- Live Site URL: https://joy21fs.github.io/Frontend-Montor-QR-Code-Component/
 
 ### Built with
 
